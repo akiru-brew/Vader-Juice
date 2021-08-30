@@ -118,7 +118,8 @@ After the boil I was left with 17 litres of fluid with an OG of 1.223.
 
 ## Fermentation
 
-As I was making a large batch I got a new fermenter, a fermzilla. You get a good view of the the beer, and the airlock shows a nice smooth breath from the beer. ![fermenter](fermenter.jpg)
+As I was making a large batch I got a new fermenter, a fermzilla. You get a good view of the the beer, and the airlock shows a nice smooth breath from the beer. 
+![fermenter](fermenter.jpg)
 
 ![weird](weird.jpg)
 
