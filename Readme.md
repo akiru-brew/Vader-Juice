@@ -58,7 +58,7 @@ As this clearly wasn't going to work I split the mash into 2 parts, one with 7kg
 
 ![mash](mash.jpg)
 
-And thats where the second mistake happened. As the malt pipe was so fun for the first mash, I didn't put the top plate in place. This resulted in grain falling to under the pipe, and blocking the filter at the bottom making the pump struggle to move the fluid. In fact it got so bad that the pump actually started sucking liquid in reverse, also bring some grain with it and blocking the plumbing completely. Suffice to say, I am now well versed in brewzilla disassembly. 
+And thats where the second mistake happened. As the malt pipe was so full for the first mash, I didn't put the top plate in place. This resulted in grain falling to under the pipe, and blocking the filter at the bottom making the pump struggle to move the fluid. In fact it got so bad that the pump actually started sucking liquid in reverse, also bringing some grain with it and blocking the plumbing completely. Suffice to say, I am now well versed in brewzilla disassembly. 
 
 ![repair](repair.jpg)
 
