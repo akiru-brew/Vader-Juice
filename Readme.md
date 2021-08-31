@@ -16,6 +16,11 @@ For a 25 litre batch, as at [Malt Miller](https://www.themaltmiller.co.uk/rg/?id
 | Weyermann carafa special type 3 | 250g     |
 | Weyermann carafa special type 1 | 250g     |
 
+From [Grainfather](https://shop.grainfather.com/brewing-calculators)
+
+* Mash water: 30 litres
+* Sparge water: 11 litres
+
 | Additions                      | Quantity | Time         |
 | ------------------------------ | -------- | ------------ |
 | Magnum hops                    | 75g      | 90           |
@@ -25,21 +30,21 @@ For a 25 litre batch, as at [Malt Miller](https://www.themaltmiller.co.uk/rg/?id
 
 ![grain](grain.jpg)
 
-## Calculations
+## Estimates
 
 From [brewers friend](https://www.brewersfriend.com)
-* Estimated OG: 1.113
-* Estimated SG: 1.029
-* Estimated calories: 353 per 330ml
-* Estimated ABV: 11%
-* Estimated IBU: 73
-* Estimated SRM: 50
-* Estimated attenuation: 73%
 
-From [Grainfather](https://shop.grainfather.com/brewing-calculators)
+| Field       | Value         |
+| ----------- | ------------- |
+| OG          | 1.113         |
+| SG          | 1.029         |
+| Calories    | 353 per 330ml |
+| ABV         | 11%           |
+| IBU         | 73            |
+| SRM         | 50            |
+| Attenuation | 73%           |
 
-* Mash water: 30 litres
-* Sparge water: 11 litres
+
 
 ## Process
 
@@ -63,65 +68,43 @@ After the boil I was left with 17 litres of fluid with an OG of 1.223.
 
 ## Process checklist
 
-- [ ] Activate yeast
-
-- [ ] clean brewzilla with Stellarclean
-
-- [ ] Add 24l of water
-
-- [ ] add crusted campden tablet
-
-- [ ] raise to 65C
-
-- [ ] use false bottom, bottom plate and top plate.
-
-- [ ] add 7kg of grain
-
-- [ ] mash for 60 minutes
-
-- [ ] prepare boiler
-
-  - [ ] clean boiler with stellarclean
-  - [ ] boil 10l of water
-
-- [ ] raise malt pipe
-
-- [ ] raise temperate to 75C
-
-- [ ] sparge with 2l water at 75C
-
-- [ ] replace spent grain with second batch
-
-- [ ] steep at 65C for 60 minutes
-
-- [ ] raise malt pipe raise temperature to 75C
-
-- [ ] sparge with 2l water at 75C
-
-- [ ] raise to 100C
-
-- [ ] boil for 60 minutes
-
-- [ ] Add magnum hop at start
-
-- [ ] add candi at 30 minutes
-
-- [ ] Add saaz hops 10 minutes from end
-
-- [ ] Add 5g irish moss 5 minutes from end.
-
-- [ ] chill in place to 25C
-
-- [ ] transfer to fermenter
-
-- [ ] pitch yeast
+- Activate yeast
+- clean brewzilla with Stellarclean
+- Add 24l of water
+- add crusted campden tablet
+- raise to 65C
+- use false bottom, bottom plate and top plate.
+- add 7kg of grain
+- mash for 60 minutes
+- prepare boiler
+  - clean boiler with stellarclean
+  - boil 10l of water
+- raise malt pipe
+- raise temperate to 75C
+- sparge with 2l water at 75C
+- replace spent grain with second batch
+- steep at 65C for 60 minutes
+- raise malt pipe raise temperature to 75C
+- sparge with 2l water at 75C
+- raise to 100C
+- boil for 60 minutes
+- Add magnum hop at start
+- add candi at 30 minutes
+- Add saaz hops 10 minutes from end
+- Add 5g irish moss 5 minutes from end.
+- chill in place to 25C
+- transfer to fermenter
+- pitch yeast
 
 ## Fermentation
 
 As I was making a large batch I got a new fermenter, a fermzilla. You get a good view of the the beer, and the airlock shows a nice smooth breath from the beer. 
+
 ![fermenter](fermenter.jpg)
 
+
 ![weird](weird.jpg)
+
 
 <video src="breath.mp4"></video>
 
