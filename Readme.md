@@ -37,7 +37,7 @@ From [brewers friend](https://www.brewersfriend.com)
 | Field       | Value         |
 | ----------- | ------------- |
 | OG          | 1.113         |
-| SG          | 1.029         |
+| FG          | 1.029         |
 | Calories    | 353 per 330ml |
 | ABV         | 11%           |
 | IBU         | 73            |
@@ -109,6 +109,18 @@ As I was making a large batch I got a new fermenter, a fermzilla. You get a good
 <video src="breath.mp4"></video>
 
 Frustratingly it took 48 hours before the gravity started to drop. I spent a day convinced that i'd killed the yeast but it seemed to finally kick in.
+
+## Actual figures
+
+
+| Field       | Value         |
+| ----------- | ------------- |
+| OG          | 1.123         |
+| FG          | 1.0         |
+| ABV         | %           |
+| Attenuation | %           |
+
+
 
 ## Next steps
 
