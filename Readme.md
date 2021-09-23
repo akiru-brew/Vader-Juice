@@ -123,7 +123,7 @@ Frustratingly it took 48 hours before the gravity started to drop. I spent a day
 
 ## Barrelling
 
-The photo below was taken just afer added beer to the fermenter. It shows than due to the lack of grain filter during mashing, some detritus made it through to the fermenter. Although it settled over time, only 6l of beer was successfulyl siphoned off for barreling. This was rather disappointing, but some beer is better than none. Importantly, it tasted gorgeous. 
+The photo below was taken just afer added beer to the fermenter. It shows than due to the lack of grain filter during mashing, some detritus made it through to the fermenter. Although it settled over time, only 6l of beer was successfulyl siphoned off for barreling. This was rather disappointing, but some beer is better than none. Importantly, it tasted gorgeous: rich, heavy and smooth. Exactly what I was aiming for.
 
 ![weird](weird.jpg)
 
