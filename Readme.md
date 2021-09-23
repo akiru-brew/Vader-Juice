@@ -168,7 +168,7 @@ From [brewers friend](https://www.brewersfriend.com)
 
 | OG    | FG    | Calories      | ABV  | IBU  | SRM  | Attenuation |
 | ----- | ----- | ------------- | ---- | ---- | ---- | ----------- |
-| 1.113 | 1.021 | 375 per 330ml | 12%  | 94   | 50   | 75%         |
+| 1.113 | 1.021 | 375 per 330ml | 12%  | 94   | 50   | 81%         |
 
 ## TBC
 
