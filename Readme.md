@@ -55,6 +55,7 @@ This is why I have a lessons learnt section, i'm here to learn from my mistakes 
 It wasn't until brew day that I calculated how much water to add to my 11kg of grain. 30 litres! 30 litres of water and 11kg of grain does not fit into a 35 litre mash. I've actually concluded that I can't get more than 7kg of grain into my pipe, but if it want it to free flow then I really shouldn't consider adding more than 5kg. 
 
 As this clearly wasn't going to work I split the mash into 2 parts, one with 7kg and one with 4kg. with the 7kg of grain I only got 24l of water for mashing.
+***Addendum: having since spoken to a real brewer, splitting a brew into 2 mashes when volumes is an issues is perfectly reasonable.*** 
 
 ![mash](mash.jpg)
 
@@ -102,26 +103,83 @@ As I was making a large batch I got a new fermenter, a fermzilla. You get a good
 
 ![fermenter](fermenter.jpg)
 
-
-![weird](weird.jpg)
-
-
 <video src="breath.mp4"></video>
 
-Frustratingly it took 48 hours before the gravity started to drop. I spent a day convinced that i'd killed the yeast but it seemed to finally kick in.
+Frustratingly it took 48 hours before the gravity started to drop. I spent a day convinced that i'd killed the yeast but it seemed to finally kick in. At least that was the case until the SG dropped to 1.046 where it sat for a week. I felt this was slightly too high a FG for a beer as I didn't want it to be too sweet so pitched some CL23 Mangrove JAcks premium wine yeast. I know, this isn't very precise but i wanted wanted some beer to survive at this stage.
 
 ## Actual figures
 
 
+| Field       | Target         | Actual |
+| ----------- | ------------- | ---------- |
+| OG          | 1.113        |1.123|
+| FG          | 1.029      |1.037|
+| ABV         | 11.0%      |11.3%|
+| Attenuation | 73%        |70%|
+
+## Graph
+
+![graph1](graph1.png)
+
+## Barrelling
+
+The photo below was taken just afer added beer to the fermenter. It shows than due to the lack of grain filter during mashing, some detritus made it through to the fermenter. Although it settled over time, only 6l of beer was successfulyl siphoned off for barreling. This was rather disappointing, but some beer is better than none. Importantly, it tasted gorgeous. 
+
+![weird](weird.jpg)
+
+## Further Experimentation
+
+I took the decision to treat this as a research batch. After barrelling I added 25g of cocoa nibs to the barrel. I know that putting chocolate in a beer is slightly naughty but I wanted to see if this would ruin it completely, or if it would even dissolve over time.
+
+A second experiment to try with the remains of this beer is eisbocking. TBD.
+
+
+
+# Vader Juice mk 2
+
+Although a lot went wrong with this brew, the final product (what little there was of it) tasted great which was motiviation enough to try again, but this time with much smaller proportions.
+
+## Ingredients
+
+For a 10 litre batch, as at [Malt Miller](https://www.themaltmiller.co.uk/rg/?id=232939)
+
+| Grain                           | Quantity |
+| ------------------------------- | -------- |
+| Crisp extra pale maris otter    | 2800g    |
+| Weyermann CaraAroma             | 400g     |
+| TMM malted toasted wheat flakes | 400g     |
+| Simpsons crystal extra dark     | 300g     |
+| Crisp dark munich malt          | 200g     |
+| Dingemans biscuit malt          | 200g     |
+| crisp chocolate malt            | 200g     |
+| Weyermann carafa special type 3 | 100g     |
+| Weyermann carafa special type 1 | 100g     |
+
+From [Grainfather](https://shop.grainfather.com/brewing-calculators)
+
+* Mash water: 16 litres
+* Sparge water: 3 litres
+
+| Additions                                        | Quantity | Time         |
+| ------------------------------------------------ | -------- | ------------ |
+| Magnum hops                                      | 30g      | 90           |
+| Belgian Candi sugar rocks dark                   | 200g     | 30           |
+| Saaz hops                                        | 10g      | 10           |
+| ALLEMAND Nottingham - High Performance Ale Yeast | 11g      | Fermentation |
+
+
+## Estimates
+
+From [brewers friend](https://www.brewersfriend.com)
+
 | Field       | Value         |
 | ----------- | ------------- |
-| OG          | 1.123         |
-| FG          | 1.0         |
-| ABV         | %           |
-| Attenuation | %           |
-
-
-
-## Next steps
+| OG          | 1.113         |
+| FG          | 1.021         |
+| Calories    | 375 per 330ml |
+| ABV         | 12%           |
+| IBU         | 94            |
+| SRM         | 50            |
+| Attenuation | 75%           |
 
 TBC
