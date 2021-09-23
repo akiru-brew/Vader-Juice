@@ -34,15 +34,9 @@ From [Grainfather](https://shop.grainfather.com/brewing-calculators)
 
 From [brewers friend](https://www.brewersfriend.com)
 
-| Field       | Value         |
-| ----------- | ------------- |
-| OG          | 1.113         |
-| FG          | 1.029         |
-| Calories    | 353 per 330ml |
-| ABV         | 11%           |
-| IBU         | 73            |
-| SRM         | 50            |
-| Attenuation | 73%           |
+| OG    | FG    | Calories      | ABV  | IBU  | SRM  | Attenuation |
+| ----- | ----- | ------------- | ---- | ---- | ---- | ----------- |
+| 1.113 | 1.029 | 353 per 330ml | 11%  | 73   | 50   | 73%         |
 
 
 
@@ -172,14 +166,9 @@ From [Grainfather](https://shop.grainfather.com/brewing-calculators)
 
 From [brewers friend](https://www.brewersfriend.com)
 
-| Field       | Value         |
-| ----------- | ------------- |
-| OG          | 1.113         |
-| FG          | 1.021         |
-| Calories    | 375 per 330ml |
-| ABV         | 12%           |
-| IBU         | 94            |
-| SRM         | 50            |
-| Attenuation | 75%           |
+| OG    | FG    | Calories      | ABV  | IBU  | SRM  | Attenuation |
+| ----- | ----- | ------------- | ---- | ---- | ---- | ----------- |
+| 1.113 | 1.021 | 375 per 330ml | 12%  | 94   | 50   | 75%         |
 
-TBC
+## TBC
+
