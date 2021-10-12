@@ -49,7 +49,7 @@ This is why I have a lessons learnt section, i'm here to learn from my mistakes 
 It wasn't until brew day that I calculated how much water to add to my 11kg of grain. 30 litres! 30 litres of water and 11kg of grain does not fit into a 35 litre mash. I've actually concluded that I can't get more than 7kg of grain into my pipe, but if it want it to free flow then I really shouldn't consider adding more than 5kg. 
 
 As this clearly wasn't going to work I split the mash into 2 parts, one with 7kg and one with 4kg. with the 7kg of grain I only got 24l of water for mashing.
-***Addendum: having since spoken to a real brewer, splitting a brew into 2 mashes when volumes is an issues is perfectly reasonable.*** 
+
 
 ![mash](mash.jpg)
 
@@ -170,5 +170,38 @@ From [brewers friend](https://www.brewersfriend.com)
 | ----- | ----- | ------------- | ---- | ---- | ---- | ----------- |
 | 1.113 | 1.021 | 375 per 330ml | 12%  | 94   | 50   | 81%         |
 
-## TBC
+## Process
 
+This went a lot better. I assembled the mash tun correctly and used it without nd blockages or explosions. A textbook brew. I also used some [lipohop](https://www.themaltmiller.co.uk/product/nbs-lipohop-k-15g/) in an attempt to control foaming during the boil. The water calculations from brewers friend were almost perfect, although I has to add an additional 2l of water during hte mash to cover the grain, and even that that wasn't enough. Not given the grain space to properly move led to a very inefficient mash.
+
+## Actual Figures
+
+| Field       | Target         | Actual |
+| ----------- | ------------- | ---------- |
+| OG          | 1.113        |1.077|
+| FG          | 1.021      |1.015|
+| ABV         | 12.0%      |8%|
+| Attenuation | 81%        |79%|
+
+## Graph
+
+![graph2](graph2.png)
+
+## Barrelling
+
+The plan is to split the beer inteo 2 barrels for secondary conditioning. One with lactose sugar and vanilla to give a hint of advocat, and one with whiskyd infused wood chips to give the barrel aging flavour. These are both experiments to see how well they work.
+
+Given that the barrel isn't the final destiantion for these beers it makes sense to replace the ait with CO2 so that the beer has less to react with.
+
+## Lessons learnt
+
+* Add lipohop during the mash out - it takes a while to get going. 
+* Having since spoken to a real brewer, splitting a brew into 2 mashes when volumes is an issues is perfectly reasonable.
+* Dual mashing is preferable to too much grain in the pipe, this leads to low efficiency.
+* Additional water can always be boiled off. 
+
+## Bottling
+
+Putting the label in portrait allows for a differnt duck, but they don't quite fit. I may reseve this style for anything over 10% - the tall duck acts as a warning to others.
+
+![bottles_chock](bottles_chock.jpg)
