@@ -99,7 +99,7 @@ As I was making a large batch I got a new fermenter, a fermzilla. You get a good
 
 <video src="breath.mp4"></video>
 
-Frustratingly it took 48 hours before the gravity started to drop. I spent a day convinced that i'd killed the yeast but it seemed to finally kick in. At least that was the case until the SG dropped to 1.046 where it sat for a week. I felt this was slightly too high a FG for a beer as I didn't want it to be too sweet so pitched some CL23 Mangrove JAcks premium wine yeast. I know, this isn't very precise but i wanted wanted some beer to survive at this stage.
+Frustratingly it took 48 hours before the gravity started to drop. I spent a day convinced that i'd killed the yeast but it seemed to finally kick in. At least that was the case until the SG dropped to 1.046 where it sat for a week. I felt this was slightly too high a FG for a beer as I didn't want it to be too sweet so pitched some CL23 Mangrove Jacks premium wine yeast. I know, this isn't very precise but i wanted wanted some beer to survive at this stage.
 
 ## Actual figures
 
@@ -117,17 +117,15 @@ Frustratingly it took 48 hours before the gravity started to drop. I spent a day
 
 ## Barrelling
 
-The photo below was taken just afer added beer to the fermenter. It shows than due to the lack of grain filter during mashing, some detritus made it through to the fermenter. Although it settled over time, only 6l of beer was successfulyl siphoned off for barreling. This was rather disappointing, but some beer is better than none. Importantly, it tasted gorgeous: rich, heavy and smooth. Exactly what I was aiming for.
+The photo below was taken just after adding the beer to the fermenter. It shows than due to the lack of grain filter during mashing, some detritus made it through to the fermenter. Although it settled over time, only 6l of beer was successfully siphoned off for barreling. This was rather disappointing, but some beer is better than none. Importantly, it tasted gorgeous: rich, heavy and smooth. Exactly what I was aiming for.
 
 ![weird](weird.jpg)
 
 ## Further Experimentation
 
-I took the decision to treat this as a research batch. After barrelling I added 25g of cocoa nibs to the barrel. I know that putting chocolate in a beer is slightly naughty but I wanted to see if this would ruin it completely, or if it would even dissolve over time.
+I took the decision to treat this as a research batch. After barrelling I added 25g of cocoa nibs to the barrel. I know that putting chocolate in a beer is slightly naughty but I wanted to see if this would ruin it completely, or if it would even dissolve over time. After a month the chocolate hadn't fully dissolved but did add a subtle chocolate flavour. pouting carefully is recommended.
 
-A second experiment to try with the remains of this beer is eisbocking. TBD.
-
-
+A second experiment to try with the remains of this beer is eisbocking. 2l were added you a water pouch and added to the freezer. I suspect there's an art to eisbocking in getting the temperature correct to maximise the water reduction. 24 hours just led to a beer slushy, but 8 hours barely had any freezing. 16 hours seemed about the right time to drain sufficient beer off whilst leaving some slush behind. In an ideal world the remains would be pure white ice crystals to help make the ANV calculations easy, but they were relatively dark. I don't know how strong the eisbock is but the tongue suggests this has an some impact on the final strength. Further reading suggests freezing at just below 0C is the best temperature to eisbock at. One to try when i have a brewing fridge with a good temperature range.
 
 # Vader Juice mk 2
 
@@ -172,7 +170,7 @@ From [brewers friend](https://www.brewersfriend.com)
 
 ## Process
 
-This went a lot better. I assembled the mash tun correctly and used it without nd blockages or explosions. A textbook brew. I also used some [lipohop](https://www.themaltmiller.co.uk/product/nbs-lipohop-k-15g/) in an attempt to control foaming during the boil. The water calculations from brewers friend were almost perfect, although I has to add an additional 2l of water during hte mash to cover the grain, and even that that wasn't enough. Not given the grain space to properly move led to a very inefficient mash.
+This went a lot better. I assembled the mash tun correctly and used it without any blockages or explosions. A textbook brew. I also used some [lipohop](https://www.themaltmiller.co.uk/product/nbs-lipohop-k-15g/) in an attempt to control foaming during the boil. The water calculations from brewers friend were almost perfect, although I has to add an additional 2l of water during the mash to cover the grain, and even that that wasn't enough. Not given the grain space to properly move led to a very inefficient mash.
 
 ## Actual Figures
 
@@ -189,18 +187,19 @@ This went a lot better. I assembled the mash tun correctly and used it without n
 
 ## Barrelling
 
-The plan is to split the beer inteo 2 barrels for secondary conditioning. One with lactose sugar and vanilla to give a hint of advocat, and one with whiskyd infused wood chips to give the barrel aging flavour. These are both experiments to see how well they work.
+The beer was into 2 barrels for secondary conditioning. One with 50g of lactose sugar and a chopped up vanilla pod to give a hint of advocat, and one with 20g whisky infused wood chips to give the barrel aging flavour. These are both experiments to see how well they work.
 
-Given that the barrel isn't the final destiantion for these beers it makes sense to replace the ait with CO2 so that the beer has less to react with.
+Given that the barrel isn't the final destiantion for these beers it makes sense to replace the air with CO2 or NO2 (for the advocat and whiksy variants respectively) so that the beer has less to react with.
 
 ## Lessons learnt
 
 * Add lipohop during the mash out - it takes a while to get going. 
-* Having since spoken to a real brewer, splitting a brew into 2 mashes when volumes is an issues is perfectly reasonable.
-* Dual mashing is preferable to too much grain in the pipe, this leads to low efficiency.
-* Additional water can always be boiled off. 
+* Having since spoken to a real brewer, splitting a brew into 2 mashes when volumes is an issues is perfectly reasonable, it's called reiteration mashing.
+* Reiteration mashing is preferable to too much grain in the pipe, this leads to low efficiency. however reiteration has it's own inefficiencies to worry about. Alternatively additional water can always be boiled off. Next time I need to do this I shall have to plan carefully.
+* Do not put too much grain in the pipe.
+* Do not forget to add filters.
 
-## Bottling
+# Bottling
 
 Putting the label in portrait allows for a differnt duck, but they don't quite fit. I may reseve this style for anything over 10% - the tall duck acts as a warning to others.
 
