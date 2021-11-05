@@ -125,7 +125,7 @@ The photo below was taken just after adding the beer to the fermenter. It shows 
 
 I took the decision to treat this as a research batch. After barrelling I added 25g of cocoa nibs to the barrel. I know that putting chocolate in a beer is slightly naughty but I wanted to see if this would ruin it completely, or if it would even dissolve over time. After a month the chocolate hadn't fully dissolved but did add a subtle chocolate flavour. pouting carefully is recommended.
 
-A second experiment to try with the remains of this beer is eisbocking. 2l were added you a water pouch and added to the freezer. I suspect there's an art to eisbocking in getting the temperature correct to maximise the water reduction. 24 hours just led to a beer slushy, but 8 hours barely had any freezing. 16 hours seemed about the right time to drain sufficient beer off whilst leaving some slush behind. In an ideal world the remains would be pure white ice crystals to help make the ANV calculations easy, but they were relatively dark. I don't know how strong the eisbock is but the tongue suggests this has an some impact on the final strength. Further reading suggests freezing at just below 0C is the best temperature to eisbock at. One to try when i have a brewing fridge with a good temperature range.
+A second experiment to try with the remains of this beer is eisbocking. 2l were added you a water pouch and added to the freezer. I suspect there's an art to eisbocking in getting the temperature correct to maximise the water reduction. 24 hours just led to a beer slushy, but 8 hours barely had any freezing. 16 hours seemed about the right time to drain sufficient beer off whilst leaving some slush behind. In an ideal world the remains would be pure white ice crystals to help make the ANV calculations easy, but they were relatively dark. I don't know how strong the eisbock is but the tongue suggests this has some impact on the final strength. Further reading suggests freezing at just below 0C is the best temperature to eisbock at. One to try when i have a brewing fridge with a good temperature range.
 
 # Vader Juice mk 2
 
@@ -187,9 +187,11 @@ This went a lot better. I assembled the mash tun correctly and used it without a
 
 ## Barrelling
 
-The beer was into 2 barrels for secondary conditioning. One with 50g of lactose sugar and a chopped up vanilla pod to give a hint of advocat, and one with 20g whisky infused wood chips to give the barrel aging flavour. These are both experiments to see how well they work.
+The beer was into 2 barrels for secondary conditioning. One with 100g of lactose sugar and a chopped up vanilla pod to give a hint of advocat, and one with 20g whisky infused wood chips to give the barrel aging flavour. After 2 weeks of resting 50g of lactose was added to negate the overly bitter taste caused by the low FG. These are both experiments to see how well they work.
 
-Given that the barrel isn't the final destiantion for these beers it makes sense to replace the air with CO2 or NO2 (for the advocat and whiksy variants respectively) so that the beer has less to react with.
+Given that the barrel isn't the final destination for these beers it makes sense to replace the air with CO2 or NO2 (for the advocat and bourbon variants respectively) so that the beer has less to react with.
+
+After 2 weeks of aging both beers were transferred to bottles.
 
 ## Lessons learnt
 
@@ -204,3 +206,18 @@ Given that the barrel isn't the final destiantion for these beers it makes sense
 Putting the label in portrait allows for a differnt duck, but they don't quite fit. I may reseve this style for anything over 10% - the tall duck acts as a warning to others.
 
 ![bottles_chock](bottles_chock.jpg)
+
+# Review
+
+The beer is nicely dark, as you'd expect from an imperial stout.
+
+![glass](glass.jpg)
+
+Despite all the errors in production, the chocolate edition tastes almost exactly as I hoped. Strong, sweet, rich and a lasting mouth feel. I'm happy with the final result and plan to perfect it for subsequent winters.
+
+The Eisbock tastes stronger, but i'm not sure it was necessary for this beer.
+
+The Advocat hint does come through with the right amount of vanilla and lactose, but it's a shame the underlying beer was bitterer than I'd intended. It will be intersting to try this technique with a better batch of Vader juice next year.
+
+The bourbon chips work nicely.
+
